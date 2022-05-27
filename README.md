@@ -20,7 +20,7 @@ source scrap_env/bin/activate (для OS Mac/Linux)
 pip install -r requirements.txt
 ```
 
-# Running tests:
+# Running tips:
 
 Before running the tests, you should change pwd to the HORLINE project directory
 
